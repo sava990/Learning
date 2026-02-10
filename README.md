@@ -1,2 +1,1 @@
-# Learning
-typescript x react 
+belajar python
